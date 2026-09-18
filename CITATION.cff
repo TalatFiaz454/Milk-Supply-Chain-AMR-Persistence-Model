@@ -1,22 +1,18 @@
 cff-version: 1.2.0
 message: "If you use this software, please cite it as below."
-type: software
-title: "Milk Supply Chain AMR Persistence Model"
-version: "v1.0.0"
-license: "MIT"
-
 authors:
 
 * family-names: "Fiaz"
   given-names: "Muhammad Tulat"
 * family-names: "Awan"
   given-names: "Furqan"
+  title: "Milk Supply Chain AMR Persistence Model"
+  version: "v1.0.0"
+  doi: "10.5281/zenodo.22836624"
+  date-released: 2026-09-18
+  license: "MIT"
+  url: "https://github.com/TalatFiaz454/Milk-Supply-Chain-AMR-Persistence-Model"
+  repository-code: "https://github.com/TalatFiaz454/Milk-Supply-Chain-AMR-Persistence-Model"
 
-repository-code: "https://github.com/TalatFiaz454/Milk-Supply-Chain-AMR-Persistence-Model"
-
-identifiers:
-
-* type: doi
-  value: "10.5281/zenodo.22836624"
 
 
