@@ -160,9 +160,8 @@ The article DOI will be added after publication.
 
 ### Software
 
-Fiaz, M.T. and F. Awan (2026). *Milk Supply Chain AMR Persistence Model* (Version v1.0.0). Zenodo.
+Fiaz, M.T. and F. Awan (2026). *Milk Supply Chain AMR Persistence Model* (Version v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.22836624
 
-The Zenodo DOI will be added after the software is archived.
 
 ## Code Use and Attribution
 
