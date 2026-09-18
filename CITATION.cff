@@ -7,10 +7,11 @@ authors:
 * family-names: "Awan"
   given-names: "Furqan"
   title: "Milk Supply Chain AMR Persistence Model"
-  version: "v1.0.0"
+  version: 1.0.0
   doi: 10.5281/zenodo.22836624
   date-released: 2026-09-18
   url: "https://github.com/TalatFiaz454/Milk-Supply-Chain-AMR-Persistence-Model"
+
 
 
 
