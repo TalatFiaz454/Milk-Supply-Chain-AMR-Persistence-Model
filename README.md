@@ -173,7 +173,7 @@ This project is released under the MIT License. See the `LICENSE` file for detai
 
 ## Authors
 
-Muhammad Tulat Fiaz
+Muhammad Tulat Fiaz and
 Furqan Awan
 
 University of Veterinary and Animal Sciences, Lahore, Pakistan
