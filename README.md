@@ -162,6 +162,10 @@ The article DOI will be added after publication.
 
 Fiaz, M.T. and F. Awan (2026). *Milk Supply Chain AMR Persistence Model* (Version v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.22836624
 
+## Contributors
+
+- [Muhammad Tulat Fiaz](https://github.com/TalatFiaz454) — Data collection, analysis, data organization, and documentation
+- [Furqan Awan](https://github.com/furqan915) — Lead model development, implementation, and computational modeling
 
 ## Code Use and Attribution
 
