@@ -1,5 +1,9 @@
 # Milk Supply Chain AMR Persistence Model
 
+Authors: [Muhammad Tulat Fiaz](https://github.com/TalatFiaz454) and [Furqan Awan](https://github.com/furqan915)
+
+Supervisor: [Furqan Awan](https://github.com/furqan915)
+
 Agent-based model for investigating biofilm-mediated antimicrobial resistance (AMR) persistence in dairy supply chain infrastructure.
 
 ## Overview
